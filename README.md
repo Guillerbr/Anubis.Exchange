@@ -1,4 +1,4 @@
-GRAVIEX Exchange - cryptocurrency exchange
+Anubis.Exchange - cryptocurrency exchange
 ==========================================
 ### Features
 
